@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Login Example</string>
+    <string name="layout">LinearLayout</string>
+    <string name="author">dosh0005</string>
+    <string name="un">Your Username</string>
+    <string name="pw">Your Password</string>
+    <string name="btnsu">Login</string>
+    <string name="btnfp">Forget Password</string>
+    <string name="cbrm">Remember me</string>
 </resources>
